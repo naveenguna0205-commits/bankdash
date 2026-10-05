@@ -1,0 +1,10 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Back Card -->
+  <rect x="10" y="4.5" width="21.5" height="16.5" rx="4" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.8" stroke-linejoin="round"/>
+  <!-- Front Card -->
+  <rect x="4.5" y="11" width="21.5" height="16.5" rx="4" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.8" stroke-linejoin="round"/>
+  <!-- Top Magnetic Stripe -->
+  <path d="M5 16.5H25.5" stroke="#2563EB" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Rose Pill Accent Chip -->
+  <rect x="14.5" y="21" width="7.5" height="3.2" rx="1.6" fill="#F43F5E"/>
+</svg>
